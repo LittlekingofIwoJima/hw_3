@@ -1,10 +1,10 @@
 Package: bis620.2023
 Type: Package
-Title: Functions and Data for the BIS620 (2023) Class
+Title: HW_3
 Version: 0.1.0
-Author: Michael J. Kane
-Maintainer: The package maintainer <michael.kane@yale.ediu>
-Description: Functions and data captured for class.
+Author: Sebastian Jin
+Maintainer: The package maintainer <sebastian.jin@yale.edu>
+Description: HW3
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
